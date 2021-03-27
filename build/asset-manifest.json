@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59754682.chunk.css",
+    "main.js": "/static/js/main.c17ffe14.chunk.js",
+    "main.js.map": "/static/js/main.c17ffe14.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2fb01b1c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2fb01b1c.js.map",
+    "static/js/2.5620d67f.chunk.js": "/static/js/2.5620d67f.chunk.js",
+    "static/js/2.5620d67f.chunk.js.map": "/static/js/2.5620d67f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.59754682.chunk.css.map": "/static/css/main.59754682.chunk.css.map",
+    "static/js/2.5620d67f.chunk.js.LICENSE.txt": "/static/js/2.5620d67f.chunk.js.LICENSE.txt",
+    "static/media/avvaiyar.4535a775.jpeg": "/static/media/avvaiyar.4535a775.jpeg",
+    "static/media/kovalan_kannagi.a5a272c4.jpeg": "/static/media/kovalan_kannagi.a5a272c4.jpeg",
+    "static/media/muthaiah.e5f4a00a.jpeg": "/static/media/muthaiah.e5f4a00a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fb01b1c.js",
+    "static/js/2.5620d67f.chunk.js",
+    "static/css/main.59754682.chunk.css",
+    "static/js/main.c17ffe14.chunk.js"
+  ]
+}

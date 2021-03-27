@@ -1,0 +1,15 @@
+.footer-backgound-color{
+  color: white;
+  background-color:#fc5012;
+}
+
+.p-t {
+  text-decoration: none;
+  color: white;
+}
+
+.p-t:hover {
+  opacity: .7;
+  text-decoration: none;
+  color: white;
+}

@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    background: white;
+    color: #a9ded8;
+    border: none;
+}
+
+.register-box {
+    padding: 10px;
+}
+
+.form-content .form-box label {
+    color: black;
+    display: block;
+    font-size: 18px;
+    letter-spacing: 2px;
+    margin-bottom: 5px;
+}
+
+.form-content .form-box input {
+    background: #000000;
+    border: none;
+    box-shadow: inset -3px -3px 6px rgba(255, 255, 255, 0.1),
+        inset 3px 3px 6px rgba(0, 0, 0, 0.8);
+    color: #6f6f6f;
+    font-size: 18px;
+    height: 50px;
+    outline: none;
+    padding: 5px 15px;
+    width: 100%;
+}
+
+.form-content .form-box input:focus {
+    text-shadow: 0 0 10px #fc5012;
+    color: #fc5012;
+}
+
+.form-content .form-box input[type="submit"] {
+    box-shadow: -3px -3px 6px rgba(255, 255, 255, 0.1),
+        3px 3px 6px rgba(0, 0, 0, 0.8);
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.form-content .form-box input[type="submit"]:active {
+    box-shadow: 0 0 20px #fc5012;
+    background: #fc5012;
+    color: #091921;
+    margin-top: 20px;
+}
+
+.form-content .form-box input::placeholder {
+    color: #6f6f6f;
+    text-shadow: none !important;
+    font-size: 18px;
+}
+
+.register-button {
+    color: white;
+    background-color: #fc5012;
+    border-radius: 0;
+}
+
+hr {
+    border: 2px solid #fc5012;
+
+}
+
+.register-button:hover {
+    color: #fc5012;
+    background-color: white;
+    border-radius: 0;
+    opacity: 0.7;
+    border: 1px solid #fc5012;
+}
+
+.register {
+    color: black;
+}

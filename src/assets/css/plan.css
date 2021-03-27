@@ -1,0 +1,37 @@
+.card {
+    border-radius: 20px;
+}
+.custom-card {
+    border: none;
+}
+.card-header {
+    background-color: white;
+    border: none;
+    color: black;
+    text-transform: uppercase;
+}
+
+.plan-button {
+    color: white;
+    background-color: #fc5012;
+    border-radius: 0;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.plan-button:hover {
+    color: #fc5012;
+    background-color: white;
+    border-radius: 0;
+    opacity: 0.7;
+    border: 1px solid #fc5012;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.plan-title {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #fc5012;
+    color: white;
+}

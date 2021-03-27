@@ -1,0 +1,23 @@
+.navbar {
+    border-bottom: 3px solid #fc5012;
+}
+.register-btn{
+    background-color: #fc5012;
+    color: white;
+    border-radius: none;
+    margin-right: 3px;
+}
+
+.login-btn{
+    background-color: #fc5012;
+    color: white;
+    border-radius: none;
+    margin-right: 3px;
+
+}
+@media (max-width: 768px) {
+   .login-btn,.register-btn {
+	margin-top: 3px;
+    text-align: center;
+   }
+}
